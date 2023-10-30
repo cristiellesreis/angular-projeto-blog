@@ -8,7 +8,7 @@ Projeto desenvolvido no curso de Angular do Bootcamp Santander 2023.
 
 ## Screenshots
 
-![Interface desktop](https://via.placeholder.com/900x500?text=App+Screenshot+Here)
+<img src="/screenshots/tela1">
 
 ## Tecnologias utilizadas
 
