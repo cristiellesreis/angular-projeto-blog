@@ -2,10 +2,6 @@
 
 Projeto desenvolvido no curso de Angular do Bootcamp Santander 2023.
 
-## Autores
-
-- [@cristiellesreis](https://github.com/cristiellesreis)
-
 ## 📚 Documentação
 
 - [Documentação Angular](https://angular.io/docs)
